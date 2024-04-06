@@ -1,4 +1,3 @@
-# basic-firewall-config
 # Cisco ASA Firewall configuration
 <h2>Description</h2>
 - <b>Documented firewall configurations and procedures for future reference.
